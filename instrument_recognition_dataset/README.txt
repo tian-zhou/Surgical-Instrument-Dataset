@@ -1,0 +1,2 @@
+Filename of the image has the format X_Y, where X \in {0,1,2,3,4} represents the five different instruments types, and Y \in {0,1,...,639} is the image index.
+In total there are 640 images for each of the 5 categories, therefore in total 3200 images as the entire dataset.
